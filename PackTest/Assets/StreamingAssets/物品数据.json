@@ -1,0 +1,85 @@
+﻿[
+//***************武器***************
+ {
+  "ID": 1001,
+  "Name": "匕首",
+  "Description": "杀伤力较小,但方便携带。", //物品描述
+  "Attack": 10, //攻击力
+  "Violent": 0.05, //暴击率
+  "ImageName": "BiShou" //对应精灵图片名称
+ },
+ {
+  "ID": 1002,
+  "Name": "斧头",
+  "Description": "破坏力惊人,无奈重量较重,一般人无法使用。", 
+  "Attack": 80, 
+  "Violent": 0.3, 
+  "ImageName": "FuTou" 
+ },
+ {
+  "ID": 1003,
+  "Name": "弯刀",
+  "Description": "操作灵活,攻守兼备,且便于携带。",
+  "Attack": 30,
+  "Violent": 0.2,
+  "ImageName": "WanDao"
+ },
+ //***************衣服***************
+  {
+  "ID": 2001,
+  "Name": "烈焰甲",
+  "Description": "具有较高的防高温属性,受伤时不容易找到伤口,耽误抢救。",
+  "PhysicalDefense": 60, //物理防御
+  "MagicDefense": 45, //魔法防御
+  "ImageName": "LieYanJia"
+ },
+ {
+  "ID": 2002,
+  "Name": "坚强之凯",
+  "Description": "因为它超凡脱俗的色系,穿上它的人都异常坚强。",
+  "PhysicalDefense": 80, 
+  "MagicDefense": 20, 
+  "ImageName": "JianQiangZhiKai"
+ },
+ {
+  "ID": 2003,
+  "Name": "圣诞纪念服",
+  "Description": "不能水洗也不能干洗更不能血洗,只能洗衣机洗。",
+  "PhysicalDefense": 5,
+  "MagicDefense": 2,
+  "ImageName": "ShengDanJiNianFu"
+ },
+ //***************道具***************
+  {
+  "ID": 3001,
+  "Name": "青椒乌龟",
+  "Description": "百年的乌龟配上百年的青椒发酵百年而成。", 
+  "AddHP": 300, 
+  "AddMP": 200, 
+  "ImageName": "QingJiaoWuGui" 
+ },
+ {
+  "ID": 3002,
+  "Name": "黄焖海星",
+  "Description": "据说这道菜的发明者在做黄焖鸡的时候不小心把鸡放成了海星。", 
+  "AddHP": 100, 
+  "AddMP": 50, 
+  "ImageName": "HuangMenHaiXing" 
+ },
+ {
+  "ID": 3003,
+  "Name": "红烧章鱼",
+  "Description": "只有当海底火山爆发时才会被喷上岸,上岸时已经熟了。",
+  "AddHP": 150,
+  "AddMP": 20,
+  "ImageName": "HongShaoZhangYu"
+ },
+ {
+  "ID": 3004,
+  "Name": "白灼扇贝",
+  "Description": "白天灼烤而成,因为晚上厨师不上班",
+  "AddHP": 30,
+  "AddMP":10,
+  "ImageName": "BaiZhuoShanBei"
+ }
+]
