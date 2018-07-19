@@ -77,7 +77,7 @@
  {
   "ID": 3004,
   "Name": "白灼扇贝",
-  "Description": "白天灼烤而成,因为晚上厨师不上班",
+  "Description": "白天灼烤而成,因为晚上厨师不上班。",
   "AddHP": 30,
   "AddMP":10,
   "ImageName": "BaiZhuoShanBei"

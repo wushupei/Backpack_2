@@ -4,12 +4,8 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    void Start()
+    void OnMouseEnter()//鼠标放在脚本物体上立刻产生反应
     {
-        print(transform.childCount);   
-    }
-    void FFF()
-    {
-      
+        print(99878);
     }
 }
